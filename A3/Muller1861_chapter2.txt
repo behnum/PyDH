@@ -1,0 +1,643 @@
+LECTURE I. THE SCIENCE OF LANGUAGE ONE OF THE PHYSICAL SCIENCES.
+
+
+When I was asked some time ago to deliver a course of lectures on
+Comparative Philology in this Institution, I at once expressed my
+readiness to do so. I had lived long enough in England to know that the
+peculiar difficulties arising from my imperfect knowledge of the language
+would be more than balanced by the forbearance of an English audience, and
+I had such perfect faith in my subject that I thought it might be trusted
+even in the hands of a less skilful expositor. I felt convinced that the
+researches into the history of languages and into the nature of human
+speech which have been carried on for the last fifty years in England,
+France, and Germany, deserved a larger share of public sympathy than they
+had hitherto received; and it seemed to me, as far as I could judge, that
+the discoveries in this newly-opened mine of scientific inquiry were not
+inferior, whether in novelty or importance, to the most brilliant
+discoveries of our age.
+
+It was not till I began to write my lectures that I became aware of the
+difficulties of the task I had undertaken. The dimensions of the science
+of language are so vast that it is impossible in a course of nine lectures
+to give more than a very general survey of it; and as one of the greatest
+charms of this science consists in the minuteness of the analysis by which
+each language, each dialect, each word, each grammatical form is tested, I
+felt that it was almost impossible to do full justice to my subject, or to
+place the achievements of those who founded and fostered the science of
+language in their true light. Another difficulty arises from the dryness
+of many of the problems which I shall have to discuss. Declensions and
+conjugations cannot be made amusing, nor can I avail myself of the
+advantages possessed by most lecturers, who enliven their discussions by
+experiments and diagrams. If, with all these difficulties and drawbacks, I
+do not shrink from opening to-day this course of lectures on mere words,
+on nouns and verbs and particles,—if I venture to address an audience
+accustomed to listen, in this place, to the wonderful tales of the natural
+historian, the chemist, and geologist, and wont to see the novel results
+of inductive reasoning invested by native eloquence, with all the charms
+of poetry and romance,—it is because, though mistrusting myself, I cannot
+mistrust my subject. The study of words may be tedious to the school-boy,
+as breaking of stones is to the wayside laborer; but to the thoughtful eye
+of the geologist these stones are full of interest;—he sees miracles on
+the high-road, and reads chronicles in every ditch. Language, too, has
+marvels of her own, which she unveils to the inquiring glance of the
+patient student. There are chronicles below her surface; there are sermons
+in every word. Language has been called sacred ground, because it is the
+deposit of thought. We cannot tell as yet what language is. It may be a
+production of nature, a work of human art, or a divine gift. But to
+whatever sphere it belongs, it would seem to stand unsurpassed—nay,
+unequalled in it—by anything else. If it be a production of nature, it is
+her last and crowning production which she reserved for man alone. If it
+be a work of human art, it would seem to lift the human artist almost to
+the level of a divine creator. If it be the gift of God, it is God’s
+greatest gift; for through it God spake to man and man speaks to God in
+worship, prayer, and meditation.
+
+Although the way which is before us may be long and tedious, the point to
+which it tends would seem to be full of interest; and I believe I may
+promise that the view opened before our eyes from the summit of our
+science, will fully repay the patient travellers, and perhaps secure a
+free pardon to their venturous guide.
+
+The Science of Language is a science of very modern date. We cannot trace
+its lineage much beyond the beginning of our century, and it is scarcely
+received as yet on a footing of equality by the elder branches of
+learning. Its very name is still unsettled, and the various titles that
+have been given to it in England, France, and Germany are so vague and
+varying that they have led to the most confused ideas among the public at
+large as to the real objects of this new science. We hear it spoken of as
+Comparative Philology, Scientific Etymology, Phonology, and Glossology. In
+France it has received the convenient, but somewhat barbarous, name of
+_Linguistique_. If we must have a Greek title for our science, we might
+derive it either from _mythos_, word, or from _logos_, speech. But the
+title of _Mythology_ is already occupied, and _Logology_ would jar too
+much on classical ears. We need not waste our time in criticising these
+names, as none of them has as yet received that universal sanction which
+belongs to the titles of other modern sciences, such as Geology or
+Comparative Anatomy; nor will there be much difficulty in christening our
+young science after we have once ascertained its birth, its parentage, and
+its character. I myself prefer the simple designation of the Science of
+Language, though in these days of high-sounding titles, this plain name
+will hardly meet with general acceptance.
+
+From the name we now turn to the meaning of our science. But before we
+enter upon a definition of its subject-matter, and determine the method
+which ought to be followed in our researches, it will be useful to cast a
+glance at the history of the other sciences, among which the science of
+language now, for the first time, claims her place; and examine their
+origin, their gradual progress, and definite settlement. The history of a
+science is, as it were, its biography, and as we buy experience cheapest
+in studying the lives of others, we may, perhaps, guard our young science
+from some of the follies and extravagances inherent in youth by learning a
+lesson for which other branches of human knowledge have had to pay more
+dearly.
+
+There is a certain uniformity in the history of most sciences. If we read
+such works as Whewell’s History of the Inductive Sciences or Humboldt’s
+Cosmos, we find that the origin, the progress, the causes of failure and
+success have been the same for almost every branch of human knowledge.
+There are three marked periods or stages in the history of every one of
+them, which we may call the _Empirical_, the _Classificatory_, and the
+_Theoretical_. However humiliating it may sound, every one of our
+sciences, however grand their present titles, can be traced back to the
+most humble and homely occupations of half-savage tribes. It was not the
+true, the good, and the beautiful which spurred the early philosophers to
+deep researches and bold discoveries. The foundation-stone of the most
+glorious structures of human ingenuity in ages to come was supplied by the
+pressing wants of a patriarchal and semi-barbarous society. The names of
+some of the most ancient departments of human knowledge tell their own
+tale. Geometry, which at present declares itself free from all sensuous
+impressions, and treats of its points and lines and planes as purely ideal
+conceptions, not to be confounded with those coarse and imperfect
+representations as they appear on paper to the human eye; geometry, as its
+very name declares, began with measuring a garden or a field. It is
+derived from the Greek _ge_, land, ground, earth, and _metron_, measure.
+Botany, the science of plants, was originally the science of _botane_,
+which in Greek does not mean a plant in general, but fodder, from
+_boskein_, to feed. The science of plants would have been called
+Phytology, from the Greek _phyton_, a plant.(1) The founders of Astronomy
+were not the poet or the philosopher, but the sailor and the farmer. The
+early poet may have admired “the mazy dance of planets,” and the
+philosopher may have speculated on the heavenly harmonies; but it was to
+the sailor alone that a knowledge of the glittering guides of heaven
+became a question of life and death. It was he who calculated their
+risings and settings with the accuracy of a merchant and the shrewdness of
+an adventurer; and the names that were given to single stars or
+constellations clearly show that they were invented by the ploughers of
+the sea and of the land. The moon, for instance, the golden hand on the
+dark dial of heaven, was called by them the Measurer,—the measurer of
+time; for time was measured by nights, and moons, and winters, long before
+it was reckoned by days, and suns, and years. Moon(2) is a very old word.
+It was _mona_ in Anglo-Saxon, and was used there, not as a feminine, but
+as a masculine; for the moon was a masculine in all Teutonic languages,
+and it is only through the influence of classical models that in English
+moon has been changed into a feminine, and sun into a masculine. It was a
+most unlucky assertion which Mr. Harris made in his _Hermes_, that all
+nations ascribe to the sun a masculine, and to the moon a feminine
+gender.(3) In Gothic moon is _mena_, which is a masculine. For month we
+have in A.-S. _monadh_, in Gothic _menoth_, both masculine. In Greek we
+find _men_, a masculine, for month, and _mene_, a feminine, for moon. In
+Latin we have the derivative _mensis_, month, and in Sanskrit we find
+_mas_ for moon, and _masa_ for month, both masculine.(4) Now this _mas_ in
+Sanskrit is clearly derived from a root _ma_, to measure, to mete. In
+Sanskrit, I measure is _ma-mi_; thou measurest, _ma-si_; he measures,
+_ma-ti_ (or _mimi-te_). An instrument of measuring is called in Sanskrit
+_ma-tram_, the Greek _metron_, our metre. Now if the moon was originally
+called by the farmer the measurer, the ruler of days, and weeks, and
+seasons, the regulator of the tides, the lord of their festivals, and the
+herald of their public assemblies, it is but natural that he should have
+been conceived as a man, and not as the love-sick maiden which our modern
+sentimental poetry has put in his place.
+
+It was the sailor who, before intrusting his life and goods to the winds
+and the waves of the ocean, watched for the rising of those stars which he
+called the Sailing-stars or _Pleiades_, from _plein_, to sail. Navigation
+in the Greek waters was considered safe after the return of the Pleiades;
+and it closed when they disappeared. The Latin name for the _Pleiades_ is
+_Vergiliæ_, from _virga_, a sprout or twig. This name was given to them by
+the Italian husbandman, because in Italy, where they became visible about
+May, they marked the return of summer.(5) Another constellation, the seven
+stars in the head of Taurus, received the name of _Hyades_ or _Pluviæ_ in
+Latin, because at the time when they rose with the sun they were supposed
+to announce rain. The astronomer retains these and many other names; he
+still speaks of the pole of heaven, of wandering and fixed stars,(6) but
+he is apt to forget that these terms were not the result of scientific
+observation and classification, but were borrowed from the language of
+those who themselves were wanderers on the sea or in the desert, and to
+whom the fixed stars were in full reality what their name implies, stars
+driven in and fixed, by which they might hold fast on the deep, as by
+heavenly anchors.
+
+But although historically we are justified in saying that the first
+geometrician was a ploughman, the first botanist a gardener, the first
+mineralogist a miner, it may reasonably be objected that in this early
+stage a science is hardly a science yet: that measuring a field is not
+geometry, that growing cabbages is very far from botany, and that a
+butcher has no claim to the title of comparative anatomist. This is
+perfectly true, yet it is but right that each science should be reminded
+of these its more humble beginnings, and of the practical requirements
+which it was originally intended to answer. A science, as Bacon says,
+should be a rich storehouse for the glory of God, and the relief of man’s
+estate. Now, although it may seem as if in the present high state of our
+society students were enabled to devote their time to the investigation of
+the facts and laws of nature, or to the contemplation of the mysteries of
+the world of thought, without any side-glance at the practical result of
+their labors, no science and no art have long prospered and flourished
+among us, unless they were in some way subservient to the practical
+interests of society. It is true that a Lyell collects and arranges, a
+Faraday weighs and analyzes, an Owen dissects and compares, a Herschel
+observes and calculates, without any thought of the immediate marketable
+results of their labors. But there is a general interest which supports
+and enlivens their researches, and that interest depends on the practical
+advantages which society at large derives from their scientific studies.
+Let it be known that the successive strata of the geologist are a
+deception to the miner, that the astronomical tables are useless to the
+navigator, that chemistry is nothing but an expensive amusement, of no use
+to the manufacturer and the farmer—and astronomy, chemistry, and geology
+would soon share the fate of alchemy and astrology. As long as the
+Egyptian science excited the hopes of the invalid by mysterious
+prescriptions (I may observe by the way that the hieroglyphic signs of our
+modern prescriptions have been traced back by Champollion to the real
+hieroglyphics of Egypt(7))—and as long as it instigated the avarice of its
+patrons by the promise of the discovery of gold, it enjoyed a liberal
+support at the courts of princes, and under the roofs of monasteries.
+Though alchemy did not lead to the discovery of gold, it prepared the way
+to discoveries more valuable. The same with astrology. Astrology was not
+such mere imposition as it is generally supposed to have been. It is
+counted as a science by so sound and sober a scholar as Melancthon, and
+even Bacon allows it a place among the sciences, though admitting that “it
+had better intelligence and confederacy with the imagination of man than
+with his reason.” In spite of the strong condemnation which Luther
+pronounced against astrology, astrology continued to sway the destinies of
+Europe; and a hundred years after Luther, the astrologer was the
+counsellor of princes and generals, while the founder of modern astronomy
+died in poverty and despair. In our time the very rudiments of astrology
+are lost and forgotten.(8) Even real and useful arts, as soon as they
+cease to be useful, die away, and their secrets are sometimes lost beyond
+the hope of recovery. When after the Reformation our churches and chapels
+were divested of their artistic ornaments, in order to restore, in outward
+appearance also, the simplicity and purity of the Christian church, the
+colors of the painted windows began to fade away, and have never regained
+their former depth and harmony. The invention of printing gave the
+death-blow to the art of ornamental writing and of miniature-painting
+employed in the illumination of manuscripts; and the best artists of the
+present day despair of rivalling the minuteness, softness, and brilliancy
+combined by the humble manufacturer of the mediæval missal.
+
+I speak somewhat feelingly on the necessity that every science should
+answer some practical purpose, because I am aware that the science of
+language has but little to offer to the utilitarian spirit of our age. It
+does not profess to help us in learning languages more expeditiously, nor
+does it hold out any hope of ever realizing the dream of one universal
+language. It simply professes to teach what language is, and this would
+hardly seem sufficient to secure for a new science the sympathy and
+support of the public at large. There are problems, however, which, though
+apparently of an abstruse and merely speculative character, have exercised
+a powerful influence for good or evil in the history of mankind. Men
+before now have fought for an idea, and have laid down their lives for a
+word; and many of these problems which have agitated the world from the
+earliest to our own times, belong properly to the science of language.
+
+Mythology, which was the bane of the ancient world, is in truth a disease
+of language. A myth means a word, but a word which, from being a name or
+an attribute, has been allowed to assume a more substantial existence.
+Most of the Greek, the Roman, the Indian, and other heathen gods are
+nothing but poetical names, which were gradually allowed to assume a
+divine personality never contemplated by their original inventors. _Eos_
+was a name of the dawn before she became a goddess, the wife of
+_Tithonos_, or the dying day. _Fatum_, or fate, meant originally what had
+been spoken; and before Fate became a power, even greater than Jupiter, it
+meant that which had once been spoken by Jupiter, and could never be
+changed,—not even by Jupiter himself. _Zeus_ originally meant the bright
+heaven, in Sanskrit _Dyaus_; and many of the stories told of him as the
+supreme god, had a meaning only as told originally of the bright heaven,
+whose rays, like golden rain, descend on the lap of the earth, the _Danae_
+of old, kept by her father in the dark prison of winter. No one doubts
+that _Luna_ was simply a name of the moon; but so was likewise _Lucina_,
+both derived from _lucere_, to shine. _Hecate_, too, was an old name of
+the moon, the feminine of _Hekatos_ and _Hekatebolos_, the far-darting
+sun; and _Pyrrha_, the Eve of the Greeks, was nothing but a name of the
+red earth, and in particular of Thessaly. This mythological disease,
+though less virulent in modern languages, is by no means extinct.
+
+During the Middle Ages the controversy between Nominalism and Realism,
+which agitated the church for centuries, and finally prepared the way for
+the Reformation, was again, as its very name shows, a controversy on
+names, on the nature of language, and on the relation of words to our
+conceptions on one side, and to the realities of the outer world on the
+other. Men were called heretics for believing that words such as _justice_
+or _truth_ expressed only conceptions of our mind, not real things walking
+about in broad daylight.
+
+In modern times the science of language has been called in to settle some
+of the most perplexing political and social questions. “Nations and
+languages against dynasties and treaties,” this is what has remodelled,
+and will remodel still more, the map of Europe; and in America comparative
+philologists have been encouraged to prove the impossibility of a common
+origin of languages and races, in order to justify, by scientific
+arguments, the unhallowed theory of slavery. Never do I remember to have
+seen science more degraded than on the title-page of an American
+publication in which, among the profiles of the different races of man,
+the profile of the ape was made to look more human than that of the negro.
+
+Lastly, the problem of the position of man on the threshold between the
+worlds of matter and spirit has of late assumed a very marked prominence
+among the problems of the physical and mental sciences. It has absorbed
+the thoughts of men who, after a long life spent in collecting, observing,
+and analyzing, have brought to its solution qualifications unrivalled in
+any previous age; and if we may judge from the greater warmth displayed in
+discussions ordinarily conducted with the calmness of judges and not with
+the passion of pleaders, it might seem, after all, as if the great
+problems of our being, of the true nobility of our blood, of our descent
+from heaven or earth, though unconnected with anything that is commonly
+called practical, have still retained a charm of their own—a charm that
+will never lose its power on the mind, and on the heart of man. Now,
+however much the frontiers of the animal kingdom have been pushed forward,
+so that at one time the line of demarcation between animal and man seemed
+to depend on a mere fold in the brain, there is _one_ barrier which no one
+has yet ventured to touch—the barrier of language. Even those philosophers
+with whom _penser c’est sentir_,(9) who reduce all thought to feeling, and
+maintain that we share the faculties which are the productive causes of
+thought in common with beasts, are bound to confess that _as yet_ no race
+of animals has produced a language. Lord Monboddo, for instance, admits
+that as yet no animal has been discovered in the possession of language,
+“not even the beaver, who of all the animals we know, that are not, like
+the orang-outangs, of our own species, comes nearest to us in sagacity.”
+
+Locke, who is generally classed together with these materialistic
+philosophers, and who certainly vindicated a large share of what had been
+claimed for the intellect as the property of the senses, recognized most
+fully the barrier which language, as such, placed between man and brutes.
+“This I may be positive in,” he writes, “that the power of abstracting is
+not at all in brutes, and that the having of general ideas is that which
+puts a perfect distinction between man and brutes. For it is evident we
+observe no footsteps in these of making use of general signs for universal
+ideas; from which we have reason to imagine that they have not the faculty
+of abstracting or making general ideas, since they have no use of _words_
+or any other general signs.”
+
+If, therefore, the science of language gives us an insight into that
+which, by common consent, distinguishes man from all other living beings;
+if it establishes a frontier between man and the brute, which can never be
+removed, it would seem to possess at the present moment peculiar claims on
+the attention of all who, while watching with sincere admiration the
+progress of comparative physiology, yet consider it their duty to enter
+their manly protest against a revival of the shallow theories of Lord
+Monboddo.
+
+But to return to our survey of the history of the physical sciences. We
+had examined the empirical stage through which every science has to pass.
+We saw that, for instance, in botany, a man who has travelled through
+distant countries, who has collected a vast number of plants, who knows
+their names, their peculiarities, and their medicinal qualities, is not
+yet a botanist, but only a herbalist, a lover of plants, or what the
+Italians call a _dilettante_, from _dilettare_, to delight. The real
+science of plants, like every other science, begins with the work of
+classification. An empirical acquaintance with facts rises to a scientific
+knowledge of facts as soon as the mind discovers beneath the multiplicity
+of single productions the unity of an organic system. This discovery is
+made by means of comparison and classification. We cease to study each
+flower for its own sake; and by continually enlarging the sphere of our
+observation, we try to discover what is common to many and offers those
+essential points on which groups or natural classes may be established.
+These classes again, in their more general features, are mutually
+compared; new points of difference, or of similarity of a more general and
+higher character, spring to view, and enable us to discover classes of
+classes, or families. And when the whole kingdom of plants has thus been
+surveyed, and a simple tissue of names been thrown over the garden of
+nature; when we can lift it up, as it were, and view it in our mind as a
+whole, as a system well defined and complete, we then speak of the science
+of plants, or botany. We have entered into altogether a new sphere of
+knowledge where the individual is subject to the general, fact to law; we
+discover thought, order, and purpose pervading the whole realm of nature,
+and we perceive the dark chaos of matter lighted up by the reflection of a
+divine mind. Such views may be right or wrong. Too hasty comparisons, or
+too narrow distinctions, may have prevented the eye of the observer from
+discovering the broad outlines of nature’s plan. Yet every system, however
+insufficient it may prove hereafter, is a step in advance. If the mind of
+man is once impressed with the conviction that there must be order and law
+everywhere, it never rests again until all that seems irregular has been
+eliminated, until the full beauty and harmony of nature has been
+perceived, and the eye of man has caught the eye of God beaming out from
+the midst of all His works. The failures of the past prepare the triumphs
+of the future.
+
+Thus, to recur to our former illustration, the systematic arrangement of
+plants which bears the name of Linnæus, and which is founded on the number
+and character of the reproductive organs, failed to bring out the natural
+order which pervades all that grows and blossoms. Broad lines of
+demarcation which unite or divide large tribes and families of plants were
+invisible from his point of view. But in spite of this, his work was not
+in vain. The fact that plants in every part of the world belonged to one
+great system was established once for all; and even in later systems most
+of his classes and divisions have been preserved, because the conformation
+of the reproductive organs of plants happened to run parallel with other
+more characteristic marks of true affinity.(10) It is the same in the
+history of astronomy. Although the Ptolemæan system was a wrong one, yet
+even from its eccentric point of view, laws were discovered determining
+the true movements of the heavenly bodies. The conviction that there
+remains something unexplained is sure to lead to the discovery of our
+error. There can be no error in nature; the error must be with us. This
+conviction lived in the heart of Aristotle when, in spite of his imperfect
+knowledge of nature, he declared “that there is in nature nothing
+interpolated or without connection, as in a bad tragedy;” and from his
+time forward every new fact and every new system have confirmed his faith.
+
+The object of classification is clear. We understand things if we can
+comprehend them; that is to say, if we can grasp and hold together single
+facts, connect isolated impressions, distinguish between what is essential
+and what is merely accidental, and thus predicate the general of the
+individual, and class the individual under the general. This is the secret
+of all scientific knowledge. Many sciences, while passing through this
+second or classificatory stage, assume the title of comparative. When the
+anatomist has finished the dissection of numerous bodies, when he has
+given names to each organ, and discovered the distinctive functions of
+each, he is led to perceive similarity where at first he saw dissimilarity
+only. He discovers in the lower animals rudimentary indications of the
+more perfect organization of the higher; and he becomes impressed with the
+conviction that there is in the animal kingdom the same order and purpose
+which pervades the endless variety of plants or any other realm of nature.
+He learns, if he did not know it before, that things were not created at
+random or in a lump, but that there is a scale which leads, by
+imperceptible degrees, from the lowest infusoria to the crowning work of
+nature,—man; that all is the manifestation of one and the same unbroken
+chain of creative thought, the work of one and the same all-wise Creator.
+
+In this way the second or classificatory leads us naturally to the third
+or final stage—the theoretical, or metaphysical. If the work of
+classification is properly carried out, it teaches us that nothing exists
+in nature by accident; that each individual belongs to a species, each
+species to a genus; and that there are laws which underlie the apparent
+freedom and variety of all created things. These laws indicate to us the
+presence of a purpose in the mind of the Creator; and whereas the material
+world was looked upon by ancient philosophers as a mere illusion, as an
+agglomerate of atoms, or as the work of an evil principle, we now read and
+interpret its pages as the revelation of a divine power, and wisdom, and
+love. This has given to the study of nature a new character. After the
+observer has collected his facts, and after the classifier has placed them
+in order, the student asks what is the origin and what is the meaning of
+all this? and he tries to soar, by means of induction, or sometimes even
+of divination, into regions not accessible to the mere collector. In this
+attempt the mind of man no doubt has frequently met with the fate of
+Phaeton; but, undismayed by failure, he asks again and again for his
+father’s steeds. It has been said that this so-called philosophy of nature
+has never achieved anything; that it has done nothing but prove that
+things must be exactly as they had been found to be by the observer and
+collector. Physical science, however, would never have been what it is
+without the impulses which it received from the philosopher, nay even from
+the poet. “At the limits of exact knowledge” (I quote the words of
+Humboldt), “as from a lofty island-shore, the eye loves to glance towards
+distant regions. The images which it sees may be illusive; but, like the
+illusive images which people imagined they had seen from the Canaries or
+the Azores, long before the time of Columbus, they may lead to the
+discovery of a new world.”
+
+Copernicus, in the dedication of his work to Pope Paul III. (it was
+commenced in 1517, finished 1530, published 1543), confesses that he was
+brought to the discovery of the sun’s central position, and of the diurnal
+motion of the earth, not by observation or analysis, but by what he calls
+the feeling of a want of symmetry in the Ptolemaic system. But who had
+told him that there _must_ be symmetry in all the movements of the
+celestial bodies, or that complication was not more sublime than
+simplicity? Symmetry and simplicity, before they were discovered by the
+observer, were postulated by the philosopher. The first idea of
+revolutionizing the heavens was suggested to Copernicus, as he tells us
+himself, by an ancient Greek philosopher, by Philolaus, the Pythagorean.
+No doubt with Philolaus the motion of the earth was only a guess, or, if
+you like, a happy intuition. Nevertheless, if we may trust the words of
+Copernicus, it is quite possible that without that guess we should never
+have heard of the Copernican system. Truth is not found by addition and
+multiplication only. When speaking of Kepler, whose method of reasoning
+has been considered as unsafe and fantastic by his contemporaries as well
+as by later astronomers, Sir David Brewster remarks very truly, “that, as
+an instrument of research, the influence of imagination has been much
+overlooked by those who have ventured to give laws to philosophy.” The
+torch of imagination is as necessary to him who looks for truth, as the
+lamp of study. Kepler held both, and more than that, he had the star of
+faith to guide him in all things from darkness to light.
+
+In the history of the physical sciences, the three stages which we have
+just described as the empirical, the classificatory, and the theoretical,
+appear generally in chronological order. I say, generally, for there have
+been instances, as in the case just quoted of Philolaus, where the results
+properly belonging to the third have been anticipated in the first stage.
+To the quick eye of genius one case may be like a thousand, and one
+experiment, well chosen, may lead to the discovery of an absolute law.
+Besides, there are great chasms in the history of science. The tradition
+of generations is broken by political or ethnic earthquakes, and the work
+that was nearly finished has frequently had to be done again from the
+beginning, when a new surface had been formed for the growth of a new
+civilization. The succession, however, of these three stages is no doubt
+the natural one, and it is very properly observed in the study of every
+science. The student of botany begins as a collector of plants. Taking
+each plant by itself, he observes its peculiar character, its habitat, its
+proper season, its popular or unscientific name. He learns to distinguish
+between the roots, the stem, the leaves, the flower, the calyx, the
+stamina, and pistils. He learns, so to say, the practical grammar of the
+plant before he can begin to compare, to arrange, and classify.
+
+Again, no one can enter with advantage on the third stage of any physical
+science without having passed through the second. No one can study _the_
+plant, no one can understand the bearing of such a work as, for instance,
+Professor Schleiden’s “Life of the Plant,”(11) who has not studied the
+life of plants in the wonderful variety, and in the still more wonderful
+order, of nature. These last and highest achievements of inductive
+philosophy are possible only after the way has been cleared by previous
+classification. The philosopher must command his classes like regiments
+which obey the order of their general. Thus alone can the battle be fought
+and truth be conquered.
+
+After this rapid glance at the history of the other physical sciences, we
+now return to our own, the science of language, in order to see whether it
+really is a science, and whether it can be brought back to the standard of
+the inductive sciences. We want to know whether it has passed, or is still
+passing, through the three phases of physical research; whether its
+progress has been systematic or desultory, whether its method has been
+appropriate or not. But before we do this, we shall, I think, have to do
+something else. You may have observed that I always took it for granted
+that the science of language, which is best known in this country by the
+name of comparative philology, is one of the physical sciences, and that
+therefore its method ought to be the same as that which has been followed
+with so much success in botany, geology, anatomy, and other branches of
+the study of nature. In the history of the physical sciences, however, we
+look in vain for a place assigned to comparative philology, and its very
+name would seem to show that it belongs to quite a different sphere of
+human knowledge. There are two great divisions of human knowledge, which,
+according to their subject-matter, are called _physical_ and _historical_.
+Physical science deals with the works of God, historical science with the
+works of man. Now if we were to judge by its name, comparative philology,
+like classical philology, would seem to take rank, not as a physical, but
+as an historical science, and the proper method to be applied to it would
+be that which is followed in the history of art, of law, of politics, and
+religion. However, the title of comparative philology must not be allowed
+to mislead us. It is difficult to say by whom that title was invented; but
+all that can be said in defence of it is, that the founders of the science
+of language were chiefly scholars or philologists, and that they based
+their inquiries into the nature and laws of language on a comparison of as
+many facts as they could collect within their own special spheres of
+study. Neither in Germany, which may well be called the birthplace of this
+science, nor in France, where it has been cultivated with brilliant
+success, has that title been adopted. It will not be difficult to show
+that, although the science of language owes much to the classical scholar,
+and though in return it has proved of great use to him, yet comparative
+philology has really nothing whatever in common with philology in the
+usual meaning of the word. Philology, whether classical or oriental,
+whether treating of ancient or modern, of cultivated or barbarous
+languages, is an historical science. Language is here treated simply as a
+means. The classical scholar uses Greek or Latin, the oriental scholar
+Hebrew or Sanskrit, or any other language, as a key to an understanding of
+the literary monuments which by-gone ages have bequeathed to us, as a
+spell to raise from the tomb of time the thoughts of great men in
+different ages and different countries, and as a means ultimately to trace
+the social, moral, intellectual, and religious progress of the human race.
+In the same manner, if we study living languages, it is not for their own
+sake that we acquire grammars and vocabularies. We do so on account of
+their practical usefulness. We use them as letters of introduction to the
+best society or to the best literature of the leading nations of Europe.
+In comparative philology the case is totally different. In the science of
+language, languages are not treated as a means; language itself becomes
+the sole object of scientific inquiry. Dialects which have never produced
+any literature at all, the jargons of savage tribes, the clicks of the
+Hottentots, and the vocal modulations of the Indo-Chinese are as
+important, nay, for the solution of some of our problems, more important,
+than the poetry of Homer, or the prose of Cicero. We do not want to know
+languages, we want to know language; what language is, how it can form a
+vehicle or an organ of thought; we want to know its origin, its nature,
+its laws; and it is only in order to arrive at that knowledge that we
+collect, arrange, and classify all the facts of language that are within
+our reach.
+
+And here I must protest, at the very outset of these lectures, against the
+supposition that the student of language must necessarily be a great
+linguist. I shall have to speak to you in the course of these lectures of
+hundreds of languages, some of which, perhaps, you may never have heard
+mentioned even by name. Do not suppose that I know these languages as you
+know Greek or Latin, French or German. In that sense I know indeed very
+few languages, and I never aspired to the fame of a Mithridates or a
+Mezzofanti. It is impossible for a student of language to acquire a
+practical knowledge of all tongues with which he has to deal. He does not
+wish to speak the Kachikal language, of which a professorship was lately
+founded in the University of Guatemala,(12) or to acquire the elegancies
+of the idiom of the Tcheremissians; nor is it his ambition to explore the
+literature of the Samoyedes, or the New-Zealanders. It is the grammar and
+the dictionary which form the subject of his inquiries. These he consults
+and subjects to a careful analysis, but he does not encumber his memory
+with paradigms of nouns and verbs, or with long lists of words which have
+never been used in any work of literature. It is true, no doubt, that no
+language will unveil the whole of its wonderful structure except to the
+scholar who has studied it thoroughly and critically in a number of
+literary works representing the various periods of its growth.
+Nevertheless, short lists of vocables, and imperfect sketches of a
+grammar, are in many instances all that the student can expect to obtain,
+or can hope to master and to use for the purposes he has in view. He must
+learn to make the best of this fragmentary information, like the
+comparative anatomist, who frequently learns his lessons from the smallest
+fragments of fossil bones, or the vague pictures of animals brought home
+by unscientific travellers. If it were necessary for the comparative
+philologist to acquire a critical or practical acquaintance with all the
+languages which form the subject of his inquiries, the science of language
+would simply be an impossibility. But we do not expect the botanist to be
+an experienced gardener, or the geologist a miner, or the ichthyologist a
+practical fisherman. Nor would it be reasonable to object in the science
+of language to the same division of labor which is necessary for the
+successful cultivation of subjects much less comprehensive. Though much of
+what we might call the realm of language is lost to us forever, though
+whole periods in the history of language are by necessity withdrawn from
+our observation, yet the mass of human speech that lies before us, whether
+in the petrified strata of ancient literature or in the countless variety
+of living languages and dialects, offers a field as large, if not larger,
+than any other branch of physical research. It is impossible to fix the
+exact number of known languages, but their number can hardly be less than
+nine hundred. That this vast field should never have excited the curiosity
+of the natural philosopher before the beginning of our century may seem
+surprising, more surprising even than the indifference with which former
+generations treated the lessons which even the stones seemed to teach of
+the life still throbbing in the veins and on the very surface of the
+earth. The saying that "familiarity breeds contempt" would seem applicable
+to the subjects of both these sciences. The gravel of our walks hardly
+seemed to deserve a scientific treatment, and the language which every
+plough-boy can speak could not be raised without an effort to the dignity
+of a scientific problem. Man had studied every part of nature, the mineral
+treasures in the bowels of the earth, the flowers of each season, the
+animals of every continent, the laws of storms, and the movements of the
+heavenly bodies; he had analyzed every substance, dissected every
+organism, he knew every bone and muscle, every nerve and fibre of his own
+body to the ultimate elements which compose his flesh and blood; he had
+meditated on the nature of his soul, on the laws of his mind, and tried to
+penetrate into the last causes of all being—and yet language, without the
+aid of which not even the first step in this glorious career could have
+been made, remained unnoticed. Like a veil that hung too close over the
+eye of the human mind, it was hardly perceived. In an age when the study
+of antiquity attracted the most energetic minds, when the ashes of Pompeii
+were sifted for the playthings of Roman life; when parchments were made to
+disclose, by chemical means, the erased thoughts of Grecian thinkers; when
+the tombs of Egypt were ransacked for their sacred contents, and the
+palaces of Babylon and Nineveh forced to surrender the clay diaries of
+Nebuchadnezzar; when everything, in fact, that seemed to contain a vestige
+of the early life of man was anxiously searched for and carefully
+preserved in our libraries and museums,—language, which in itself carries
+us back far beyond the cuneiform literature of Assyria and Babylonia, and
+the hieroglyphic documents of Egypt; which connects ourselves, through an
+unbroken chain of speech, with the very ancestors of our race, and still
+draws its life from the first utterances of the human mind,—language, the
+living and speaking witness of the whole history of our race, was never
+cross-examined by the student of history, was never made to disclose its
+secrets until questioned and, so to say, brought back to itself within the
+last fifty years, by the genius of a Humboldt, Bopp, Grimm, Bunsen, and
+others. If you consider that, whatever view we take of the origin and
+dispersion of language, nothing new has ever been added to the substance
+of language, that all its changes have been changes of form, that no new
+root or radical has ever been invented by later generations, as little as
+one single element has ever been added to the material world in which we
+live; if you bear in mind that in one sense, and in a very just sense, we
+may be said to handle the very words which issued from the mouth of the
+son of God, when he gave names to “all cattle, and to the fowl of the air,
+and to every beast of the field,” you will see, I believe, that the
+science of language has claims on your attention, such as few sciences can
+rival or excel.
+
+Having thus explained the manner in which I intend to treat the science of
+language, I hope in my next lecture to examine the objections of those
+philosophers who see in language nothing but a contrivance devised by
+human skill for the more expeditious communication of our thoughts, and
+who would wish to see it treated, not as a production of nature, but as a
+work of human art.
