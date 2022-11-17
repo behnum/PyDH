@@ -77,7 +77,7 @@ def dispense_chart(type):
             + "}$"
             + "\nRed: Chapter 1, Blue: Chapter 2"
         )
-        plt.savefig("top_words_barplot.png")
+        plt.savefig("./A3/top_words_barplot.png")
         # plt.show() # Optional
         return
     elif type == "pie":
@@ -94,7 +94,7 @@ def dispense_chart(type):
         )
 
         # plt.legend() # Optional
-        plt.savefig("top_words_piechart.png")
+        plt.savefig("./A3/top_words_piechart.png")
         # plt.show() # Optional
         return
     else:
@@ -106,7 +106,7 @@ def dispense_chart(type):
 goodies.echo_badge()
 
 ### 1. Extract the top most frequent words. ==============================
-export_filename = "data.csv"
+export_filename = "./A3/data.csv"
 header_fields = ["Word", "Frequency", "Length", "Chapter"]
 gen_ch1 = generate_rows(top_words(chapter_1, 10), 1)
 gen_ch2 = generate_rows(top_words(chapter_2, 10), 2)
@@ -121,6 +121,21 @@ with open(export_filename, "w") as csvfile:
 print(f"▐░░ Data file has been successfully saved as {export_filename}")
 print(f"▐░░ Generating visualisation(s) now ...\n")
 
-### 2. Generate visualization. ===========================================
 
+### 2. Generate visualization. ===========================================
+data_frame = pd.read_csv("./A3/data.csv")
+
+# For aesthetic purposes
+print(data_frame)
+
+# Draw and save the charts consecutively
+
+plt.figure(figsize=(20, 15))  # Set the figure size: (20, 15)
+dispense_chart("bar")  # Takes "bar" / "pie" as type
+
+plt.figure(figsize=(20, 15))  # Set the figure size: (20, 15)
+dispense_chart("pie")  # Takes "bar" / "pie" as type
+
+goodies.insert_new_segment()
+print(f"▐░░ Visualisation(s) have been successfully generated.")
 print("▐░░ Processs finished in: %s seconds\n" % round((time.time() - start_time), 3))
