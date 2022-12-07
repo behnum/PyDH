@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.DS_Store
+A3/data.csv
+A3/top_words_barplot.png
+A3/top_words_piechart.png
+A4/collage.png

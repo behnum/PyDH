@@ -1,5 +1,5 @@
 # Behnam Baharmand
-# Assignment 3: Text Processing and Visualization with Python
+# A3: Text Processing and Visualization with Python
 # Version 0.1.0
 
 # Import resources/libraries
